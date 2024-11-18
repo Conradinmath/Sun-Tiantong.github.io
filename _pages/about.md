@@ -1,11 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 I'm a fourth year undergraduate student from [School of Mathematics and Applied Mathematics](https://maths.hust.edu.cn/), [Huazhong University of Science and Technology](https://www.hust.edu.cn/). My research interest includes machine learning,federated learning, learning theory, and AI for science,like lean_prover. 
 
